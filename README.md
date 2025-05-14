@@ -1,6 +1,6 @@
 # TAD - Software tasks
     
-    So, this is the documentation for each tasks that you guys asked to do. We'll jump right into 
+    So, this is the documentation for each tasks that you guys asked to do. We'll jump right into it
 
 ## Task - 1:
     First off, we were supposed to do a github account and also had to install git locally, which i already did. So, I went straight into coding the games. 
